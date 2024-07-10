@@ -1,0 +1,56 @@
+.text-center{
+  text-align: center;
+  color: white;
+}
+ 
+.mx-auto{
+  margin: auto;
+  border: 1.5px solid black;
+}
+  
+.flex{
+  display:flex;
+} 
+.flex-col{
+  flex-direction: column;
+}
+  
+.items-center{
+  align-items: center;
+}
+
+.row1{
+  background-color: lightgrey;
+  color: black;
+}
+
+.coloum1{
+    margin-left: 0.1px;
+}
+
+.coloum2{
+    margin-left: 0.5px;
+}
+
+.coloum3{
+    margin-left: 1px;
+}
+
+.coloum4{
+    margin-left: 1.5px;
+    background-color: #ff9500;
+}
+
+.zero{
+  width: 140px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  cursor: pointer;
+  border-radius: 30px;
+  text-align: left;
+}
+
+.divide{
+  font-size: large;
+}
